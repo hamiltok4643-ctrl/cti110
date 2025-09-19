@@ -11,4 +11,3 @@ print()
 print( "Hello", first_name, last_name + "!" "Welcome to CTI to CTI-110.")
 print()
 print(type(first_name))
-
